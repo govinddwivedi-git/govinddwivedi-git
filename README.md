@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a second-year student at Indian Institute Of Technology, Jabalpur, Madhya Pradesh.
+I'm a second-year student at Indian Institute of Information Technology, Jabalpur, Madhya Pradesh.
 I'm  have a keen interest in problem solving, web development and open-source contributions. I love to learn new technologies and apply them to solve real-world problems.
 
 
