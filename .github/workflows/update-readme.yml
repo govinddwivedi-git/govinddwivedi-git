@@ -1,0 +1,29 @@
+name: Update README with Recent Activity
+
+on:
+  schedule:
+    # Runs at 12am UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        uses: teoxoy/github-action-readme-stats@v1.7
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: govinddwivedi-git/govinddwivedi-git
+          SECTION: activity
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update README with recent activity'
+          git push
