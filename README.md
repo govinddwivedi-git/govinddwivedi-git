@@ -40,7 +40,6 @@ I have a keen interest in problem solving, web development and open-source contr
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔄 Updated README profile
 <!--END_SECTION:activity-->
 
 ## Connect with Me
