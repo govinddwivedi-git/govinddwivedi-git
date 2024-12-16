@@ -2,15 +2,9 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in web development, cloud computing, and open-source contributions. I love to learn new technologies and apply them to solve real-world problems.
+I'm a second-year student at Indian Institute Of Technology, Jabalpur, Madhya Pradesh.
+I'm  have a keen interest in problem solving, web development and open-source contributions. I love to learn new technologies and apply them to solve real-world problems.
 
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 🔭 I’m currently working on **[Project Name]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 🤔 I’m looking for help with **[Specific Area]**
-- 💬 Ask me about **C, C++, Python, JavaScript, React, Node.js, PHP, SQL, Vue, Java, Docker, Django**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[A fun fact about you]**
 
 ## Technologies & Tools
 
