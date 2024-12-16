@@ -33,9 +33,9 @@ I have a keen interest in problem solving, web development and open-source contr
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## GitHub Stats
+<!--## GitHub Stats
 
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govinddwivedi-git&show_icons=true&theme=radical)
+<!--![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govinddwivedi-git&show_icons=true&theme=radical)
 
 ## Recent Activity
 
