@@ -5,6 +5,24 @@
 I'm a second-year student at the Indian Institute of Information Technology, Jabalpur, Madhya Pradesh. I have a keen interest in problem-solving, web development, and contributing to open-source projects.
 I love exploring and learning new technologies, applying them to solve real-world problems, and collaborating with others. I also enjoy spending time on competitive programming, sharpening my coding skills.
 
+## DSA Analytics (Total Solved Problems)
+<div style="display: inline-block;">
+  <!-- LEETCODE_DATA_START -->
+ <img src="https://img.shields.io/badge/LeetCode-291-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+<!-- LEETCODE_DATA_END -->
+  <!-- GFG_DATA_START -->
+ <img src="https://img.shields.io/badge/GeeksforGeeks-112-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
+<!-- GFG_DATA_END -->
+  <!-- CODEFORCE_DATA_START -->
+<img src="https://img.shields.io/badge/Codeforces-33-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<!-- CODEFORCE_DATA_END -->
+  <!-- CODECHEF_DATA_START -->
+<img src="https://img.shields.io/badge/CodeChef-67-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<!-- CODECHEF_DATA_END -->
+</div>
+<br>
+
+
 ## Technologies & Tools
 
 ### Programming Languages
@@ -42,22 +60,7 @@ I love exploring and learning new technologies, applying them to solve real-worl
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### DSA Analytics (Total Solved Problems)
-<div style="display: inline-block;">
-  <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-291-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
-<!-- LEETCODE_DATA_END -->
-  <!-- GFG_DATA_START -->
- <img src="https://img.shields.io/badge/GeeksforGeeks-112-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
-<!-- GFG_DATA_END -->
-  <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces-33-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-<!-- CODEFORCE_DATA_END -->
-  <!-- CODECHEF_DATA_START -->
-<img src="https://img.shields.io/badge/CodeChef-67-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-<!-- CODECHEF_DATA_END -->
-</div>
-<br>
+
 <div align="center">
 
 ## Connect with Me
