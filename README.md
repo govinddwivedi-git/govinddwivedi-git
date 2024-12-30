@@ -66,5 +66,5 @@ I love exploring and learning new technologies, applying them to solve real-worl
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govinddwivedi)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/govinddwivedi-git)
-[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://govind-dwivedi.vercel.app/)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://govind-dwivedi.vercel.app/)
 </div>
