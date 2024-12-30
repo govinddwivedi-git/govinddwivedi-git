@@ -8,17 +8,25 @@ I love exploring and learning new technologies, applying them to solve real-worl
 ## DSA Analytics (Total Solved Problems)
 <div style="display: inline-block;">
   <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-372-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
-<!-- LEETCODE_DATA_END -->
+  <a href="https://leetcode.com/yourLeetCodeProfile">
+    <img src="https://img.shields.io/badge/LeetCode-372-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <!-- LEETCODE_DATA_END -->
   <!-- GFG_DATA_START -->
- <img src="https://img.shields.io/badge/GeeksforGeeks-325-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
-<!-- GFG_DATA_END -->
+  <a href="https://auth.geeksforgeeks.org/user/yourGfgProfile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-325-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <!-- GFG_DATA_END -->
   <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces-336-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-<!-- CODEFORCE_DATA_END -->
+  <a href="https://codeforces.com/profile/yourCodeforcesProfile">
+    <img src="https://img.shields.io/badge/Codeforces-336-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+  <!-- CODEFORCE_DATA_END -->
   <!-- CODECHEF_DATA_START -->
-<img src="https://img.shields.io/badge/CodeChef-114-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-<!-- CODECHEF_DATA_END -->
+  <a href="https://www.codechef.com/users/yourCodeChefProfile">
+    <img src="https://img.shields.io/badge/CodeChef-114-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+  <!-- CODECHEF_DATA_END -->
 </div>
 <br>
 
