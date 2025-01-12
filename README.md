@@ -14,10 +14,10 @@ I love exploring and learning new technologies, applying them to solve real-worl
  <img src="https://img.shields.io/badge/GeeksforGeeks-338-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
 <!-- GFG_DATA_END -->
   <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces-346-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-347-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 <!-- CODEFORCE_DATA_END -->
   <!-- CODECHEF_DATA_START -->
-<img src="https://img.shields.io/badge/CodeChef-114-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-115-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 <!-- CODECHEF_DATA_END -->
 </div>
 <br>
