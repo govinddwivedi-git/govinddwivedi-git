@@ -17,7 +17,7 @@ I love exploring and learning new technologies, applying them to solve real-worl
 <img src="https://img.shields.io/badge/Codeforces-354-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 <!-- CODEFORCE_DATA_END -->
   <!-- CODECHEF_DATA_START -->
-<img src="https://img.shields.io/badge/CodeChef-118-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-120-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 <!-- CODECHEF_DATA_END -->
 </div>
 <br>
