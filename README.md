@@ -8,7 +8,7 @@ I love exploring and learning new technologies, applying them to solve real-worl
 ## DSA Analytics (Total Solved Problems)
 <div style="display: inline-block;">
   <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-394-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/LeetCode-395-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
 <!-- LEETCODE_DATA_END -->
   <!-- GFG_DATA_START -->
  <img src="https://img.shields.io/badge/GeeksforGeeks-343-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
