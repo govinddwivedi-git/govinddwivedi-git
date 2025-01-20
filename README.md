@@ -8,13 +8,13 @@ I love exploring and learning new technologies, applying them to solve real-worl
 ## DSA Analytics (Total Solved Problems)
 <div style="display: inline-block;">
   <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-401-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/LeetCode-402-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
 <!-- LEETCODE_DATA_END -->
   <!-- GFG_DATA_START -->
- <img src="https://img.shields.io/badge/GeeksforGeeks-344-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/GeeksforGeeks-345-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
 <!-- GFG_DATA_END -->
   <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces-363-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-364-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 <!-- CODEFORCE_DATA_END -->
   <!-- CODECHEF_DATA_START -->
 <img src="https://img.shields.io/badge/CodeChef-121-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
