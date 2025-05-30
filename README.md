@@ -8,16 +8,16 @@ I love exploring and learning new technologies, applying them to solve real-worl
 ## DSA Analytics (Total Solved Problems)
 <div style="display: inline-block;">
   <!-- LEETCODE_DATA_START -->
- <img src="https://img.shields.io/badge/LeetCode-556-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/LeetCode-559-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> 
 <!-- LEETCODE_DATA_END -->
   <!-- GFG_DATA_START -->
  <img src="https://img.shields.io/badge/GeeksforGeeks-434-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> 
 <!-- GFG_DATA_END -->
   <!-- CODEFORCE_DATA_START -->
-<img src="https://img.shields.io/badge/Codeforces-434-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-437-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 <!-- CODEFORCE_DATA_END -->
   <!-- CODECHEF_DATA_START -->
-<img src="https://img.shields.io/badge/CodeChef-137-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-140-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 <!-- CODECHEF_DATA_END -->
 </div>
 <br>
